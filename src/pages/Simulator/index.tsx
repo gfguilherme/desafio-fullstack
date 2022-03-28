@@ -133,6 +133,7 @@ export function Simulator() {
                 <h3 className="title">Qual a data do investimento inicial?</h3>
                 <span className="value">
                   <input
+                    alt="date-input"
                     className="form-control__text"
                     type="date"
                     value={date}
@@ -155,7 +156,7 @@ export function Simulator() {
                 <div
                   className="simulator-graph-result-container"
                   onClick={() => setModalShow(true)}
-                >
+                >~
                   <Graph
                     historicalData={historicalData}
                     investedAmount={investedAmount}
