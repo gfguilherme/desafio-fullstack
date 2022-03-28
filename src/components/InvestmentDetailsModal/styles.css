@@ -1,0 +1,26 @@
+.result-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detail-label {
+  color: #6d6c6c;
+  text-align: left;
+  font-weight: 400;
+  font-size: 14;
+}
+
+.detail-value {
+  color: #333333;
+  text-align: right;
+  font-weight: 500;
+  font-size: 14;
+}
+
+.crypto-title {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+  padding-bottom: 16px;
+}

@@ -1,0 +1,142 @@
+.container-fluid {
+  background-color: #4081ec;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.simulator-header {
+  margin-left: 15%;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+  margin-top: 24px;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 48px;
+  line-height: 56px;
+  font-weight: 700;
+  width: 70%;
+}
+
+.simulator-container {
+  width: 25%;
+}
+
+.simulator-form {
+  border: 1px solid black;
+}
+
+.title {
+  margin-bottom: 16px;
+  font-size: 24px;
+  line-height: 1.25;
+  font-weight: 500;
+  display: block;
+}
+
+.value {
+  display: flex;
+  font-size: 48px;
+  line-height: 52px;
+  color: #111;
+  font-weight: 500;
+  width: 100%;
+}
+
+.form-control__text {
+  font-size: 48px;
+  line-height: 52px;
+  color: #111;
+  font-weight: 500;
+  width: 100%;
+  background: 0 0;
+  border: none;
+  /* width: auto; */
+  outline: none;
+}
+
+.section-description {
+  margin-top: 80px;
+  font-size: 18px;
+  line-height: 24px;
+  color: #111;
+  font-size: 24px;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.simulator__controls {
+  width: 50%;
+}
+
+.simulator__control-item {
+  display: flex;
+  margin-bottom: 32px;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.money-input {
+  width: 55%;
+}
+
+input[type="date"] {
+  width: 60%;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+
+.simulator {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 64px;
+  padding-bottom: 15%;
+}
+
+.simulator-results {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 80px;
+}
+
+.simulator-graph-result-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  color: #111;
+  margin-bottom: 16px;
+}
+
+.result-heading {
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.form-select {
+  width: 25%;
+}
+
+.btn-group {
+  width: 50%;
+}
+
+.chart-pre-load-description {
+  text-align: center;
+  font-weight: 700;
+}
