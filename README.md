@@ -24,6 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Bootstrap](https://getbootstrap.com/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 - [date-fns](https://date-fns.org/)
+- [Jest](https://jestjs.io/pt-BR/)
 
 ### Deploy
 
