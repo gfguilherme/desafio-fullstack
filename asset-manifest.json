@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gfguilherme/desafio-fullstack/static/css/main.6f5fccd3.css",
+    "main.js": "/gfguilherme/desafio-fullstack/static/js/main.77d03d31.js",
+    "index.html": "/gfguilherme/desafio-fullstack/index.html",
+    "main.6f5fccd3.css.map": "/gfguilherme/desafio-fullstack/static/css/main.6f5fccd3.css.map",
+    "main.77d03d31.js.map": "/gfguilherme/desafio-fullstack/static/js/main.77d03d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5fccd3.css",
+    "static/js/main.77d03d31.js"
+  ]
+}
