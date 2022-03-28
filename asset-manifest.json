@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gfguilherme/desafio-fullstack/static/css/main.6f5fccd3.css",
-    "main.js": "/gfguilherme/desafio-fullstack/static/js/main.4b2c6937.js",
-    "index.html": "/gfguilherme/desafio-fullstack/index.html",
-    "main.6f5fccd3.css.map": "/gfguilherme/desafio-fullstack/static/css/main.6f5fccd3.css.map",
-    "main.4b2c6937.js.map": "/gfguilherme/desafio-fullstack/static/js/main.4b2c6937.js.map"
+    "main.css": "/desafio-fullstack/static/css/main.6f5fccd3.css",
+    "main.js": "/desafio-fullstack/static/js/main.d6d5175b.js",
+    "index.html": "/desafio-fullstack/index.html",
+    "main.6f5fccd3.css.map": "/desafio-fullstack/static/css/main.6f5fccd3.css.map",
+    "main.d6d5175b.js.map": "/desafio-fullstack/static/js/main.d6d5175b.js.map"
   },
   "entrypoints": [
     "static/css/main.6f5fccd3.css",
-    "static/js/main.4b2c6937.js"
+    "static/js/main.d6d5175b.js"
   ]
 }
